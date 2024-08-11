@@ -74,14 +74,3 @@ VITE_URL=https://mern-wallet-two.onrender.com
  - verify user after registration (ADMIN)
 
 
-### API docs
-to view api docs [click here](https://documenter.getpostman.com/view/8886902/2s93ebRVyS)
-
-### deployed version
-
-to view live [click here](https://easypay-seven.vercel.app)
-
-### video explanation
-
-live video explanation [click here](https://youtu.be/KYcF1jd3X3Q)
-
